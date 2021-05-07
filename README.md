@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @manvantar
-- 👀 I’m interested in Java full stack, python fullstack development
-- 🌱 I’m currently learning Core Java
 - 📫 How to reach me manukvshetty@gmail.com or +919663393660
 
 <!---
